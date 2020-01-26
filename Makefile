@@ -1,4 +1,4 @@
-INSTALLDIR=${HOME}/.local/bin/
+INSTALLDIR=${HOME}/.local/bin
 
 .PHONY: install
 
